@@ -1,0 +1,9 @@
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\bin\Debug\WindowsForms Taschenrechner.exe.config
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\bin\Debug\WindowsForms Taschenrechner.exe
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\bin\Debug\WindowsForms Taschenrechner.pdb
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\obj\Debug\WindowsForms Taschenrechner.csprojAssemblyReference.cache
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\obj\Debug\WindowsForms_Taschenrechner.Form1.resources
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\obj\Debug\WindowsForms_Taschenrechner.Properties.Resources.resources
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\obj\Debug\WindowsForms Taschenrechner.csproj.GenerateResource.cache
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\obj\Debug\WindowsForms Taschenrechner.exe
+C:\Visual Studio Projects\Taschenrechner CSharp\WindowsForms Taschenrechner\obj\Debug\WindowsForms Taschenrechner.pdb
